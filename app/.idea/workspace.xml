@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0dbc692d-6785-4ac3-85bb-5b1b58cc0645" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../gameday1/app/src/main/java/com/example/gameday1/Main2Activity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../gameday1/app/src/main/res/layout/activity_main2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../gameday1/app/src/main/res/layout/content_main2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../gameday1/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day2LoginExample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Group_8_Fragments_W2019_MAD3125" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../List/ListViewJson/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../List/ListViewJson/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../List/ListViewJson/app/src/main/java/com/example/listviewjson/Modal/Adapter/List_Adapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../List/ListViewJson/app/src/main/java/com/example/listviewjson/Modal/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../List/ListViewJson/app/src/main/res/layout/custom_list.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MemorizingApp/MemorizingApp WatchKit App/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MemorizingApp/MemorizingApp WatchKit App/Assets.xcassets/AppIcon.appiconset/Icon-24@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MemorizingApp/MemorizingApp WatchKit App/Assets.xcassets/AppIcon.appiconset/Icon-27.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MemorizingApp/MemorizingApp WatchKit App/Assets.xcassets/AppIcon.appiconset/Icon-29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MemorizingApp/MemorizingApp WatchKit App/Assets.xcassets/AppIcon.appiconset/Icon-29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MemorizingApp/MemorizingApp WatchKit App/Assets.xcassets/AppIcon.appiconset/Icon-40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MemorizingApp/MemorizingApp WatchKit App/Assets.xcassets/AppIcon.appiconset/Icon-44@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MemorizingApp/MemorizingApp WatchKit App/Assets.xcassets/AppIcon.appiconset/Icon-86@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MemorizingApp/MemorizingApp WatchKit App/Assets.xcassets/AppIcon.appiconset/Icon-98@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MemorizingApp/MemorizingApp WatchKit App/Assets.xcassets/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MemorizingApp/MemorizingApp WatchKit App/Base.lproj/Interface.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MemorizingApp/MemorizingApp WatchKit App/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MemorizingApp/MemorizingApp WatchKit Extension/Assets.xcassets/Complication.complicationset/Circular.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MemorizingApp/MemorizingApp WatchKit Extension/Assets.xcassets/Complication.complicationset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MemorizingApp/MemorizingApp WatchKit Extension/Assets.xcassets/Complication.complicationset/Extra Large.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MemorizingApp/MemorizingApp WatchKit Extension/Assets.xcassets/Complication.complicationset/Graphic Bezel.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MemorizingApp/MemorizingApp WatchKit Extension/Assets.xcassets/Complication.complicationset/Graphic Circular.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MemorizingApp/MemorizingApp WatchKit Extension/Assets.xcassets/Complication.complicationset/Graphic Corner.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MemorizingApp/MemorizingApp WatchKit Extension/Assets.xcassets/Complication.complicationset/Graphic Large Rectangular.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MemorizingApp/MemorizingApp WatchKit Extension/Assets.xcassets/Complication.complicationset/Modular.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MemorizingApp/MemorizingApp WatchKit Extension/Assets.xcassets/Complication.complicationset/Utilitarian.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MemorizingApp/MemorizingApp WatchKit Extension/Assets.xcassets/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MemorizingApp/MemorizingApp WatchKit Extension/Assets.xcassets/apple.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MemorizingApp/MemorizingApp WatchKit Extension/Assets.xcassets/apple.imageset/apple.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MemorizingApp/MemorizingApp WatchKit Extension/Assets.xcassets/bmw.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MemorizingApp/MemorizingApp WatchKit Extension/Assets.xcassets/bmw.imageset/bmw.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MemorizingApp/MemorizingApp WatchKit Extension/Assets.xcassets/image1.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MemorizingApp/MemorizingApp WatchKit Extension/Assets.xcassets/image1.imageset/image1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MemorizingApp/MemorizingApp WatchKit Extension/Assets.xcassets/image2.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MemorizingApp/MemorizingApp WatchKit Extension/Assets.xcassets/image2.imageset/image2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MemorizingApp/MemorizingApp WatchKit Extension/Assets.xcassets/image3.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MemorizingApp/MemorizingApp WatchKit Extension/Assets.xcassets/image3.imageset/image3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MemorizingApp/MemorizingApp WatchKit Extension/Assets.xcassets/image4.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MemorizingApp/MemorizingApp WatchKit Extension/Assets.xcassets/image4.imageset/image4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MemorizingApp/MemorizingApp WatchKit Extension/Assets.xcassets/insta.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MemorizingApp/MemorizingApp WatchKit Extension/Assets.xcassets/insta.imageset/insta.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MemorizingApp/MemorizingApp WatchKit Extension/Assets.xcassets/plogo.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MemorizingApp/MemorizingApp WatchKit Extension/Assets.xcassets/plogo.imageset/plogo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MemorizingApp/MemorizingApp WatchKit Extension/ExtensionDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MemorizingApp/MemorizingApp WatchKit Extension/GameController.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MemorizingApp/MemorizingApp WatchKit Extension/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MemorizingApp/MemorizingApp WatchKit Extension/InterfaceController.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MemorizingApp/MemorizingApp.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MemorizingApp/MemorizingApp.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MemorizingApp/MemorizingApp.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MemorizingApp/MemorizingApp.xcodeproj/project.xcworkspace/xcuserdata/kiranmehal.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MemorizingApp/MemorizingApp.xcodeproj/xcuserdata/kiranmehal.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MemorizingApp/MemorizingApp.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MemorizingApp/MemorizingApp/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MemorizingApp/MemorizingApp/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MemorizingApp/MemorizingApp/Assets.xcassets/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MemorizingApp/MemorizingApp/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MemorizingApp/MemorizingApp/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MemorizingApp/MemorizingApp/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MemorizingApp/MemorizingApp/ViewController.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MemorizingApp/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../W2019FirstDay/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../W2019FirstDay/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../W2019FirstDay/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../W2019FirstDay/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../W2019FirstDay/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../W2019FirstDay/Fragment 2.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../W2019FirstDay/Fragment.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../W2019FirstDay/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../W2019FirstDay/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../W2019FirstDay/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../W2019FirstDay/app/src/androidTest/java/com/example/w2019firstday/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../W2019FirstDay/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../W2019FirstDay/app/src/main/java/com/example/w2019firstday/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../W2019FirstDay/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../W2019FirstDay/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../W2019FirstDay/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../W2019FirstDay/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../W2019FirstDay/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../W2019FirstDay/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../W2019FirstDay/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../W2019FirstDay/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../W2019FirstDay/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../W2019FirstDay/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../W2019FirstDay/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../W2019FirstDay/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../W2019FirstDay/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../W2019FirstDay/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../W2019FirstDay/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../W2019FirstDay/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../W2019FirstDay/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../W2019FirstDay/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../W2019FirstDay/app/src/test/java/com/example/w2019firstday/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../W2019FirstDay/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../W2019FirstDay/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../W2019FirstDay/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../W2019FirstDay/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../W2019FirstDay/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../W2019FirstDay/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../W2019FirstDay/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../custom/custom.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../custom/custom.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../custom/custom.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../custom/custom.xcodeproj/project.xcworkspace/xcuserdata/kiranmehal.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../custom/custom.xcodeproj/xcuserdata/kiranmehal.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../custom/custom/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../custom/custom/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../custom/custom/Assets.xcassets/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../custom/custom/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../custom/custom/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../custom/custom/HomeViewController.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../custom/custom/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../custom/custom/MenuViewController.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../custom/custom/customcells/Student.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../custom/custom/customcells/StudentDetailsViewCell.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../studentdetails.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/CatGame/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/CatGame/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/CatGame/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/CatGame/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/CatGame/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/CatGame/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/CatGame/app/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/CatGame/app/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/CatGame/app/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/CatGame/app/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/CatGame/app/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/CatGame/app/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/CatGame/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/CatGame/app/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/CatGame/app/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/CatGame/app/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/CatGame/app/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/CatGame/app/local.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/CatGame/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/CatGame/app/src/androidTest/java/com/aman/catgame/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/CatGame/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/CatGame/app/src/main/java/com/aman/catgame/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/CatGame/app/src/main/java/com/aman/catgame/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/CatGame/app/src/main/java/com/aman/catgame/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/CatGame/app/src/main/java/com/aman/catgame/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/CatGame/app/src/main/java/com/aman/catgame/GameEngine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/CatGame/app/src/main/java/com/aman/catgame/Ghost.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/CatGame/app/src/main/java/com/aman/catgame/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/CatGame/app/src/main/java/com/aman/catgame/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/CatGame/app/src/main/java/com/aman/catgame/PlayerLife.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/CatGame/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/CatGame/app/src/main/res/drawable/background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/CatGame/app/src/main/res/drawable/cat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/CatGame/app/src/main/res/drawable/ghost.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/CatGame/app/src/main/res/drawable/ghost1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/CatGame/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/CatGame/app/src/main/res/drawable/mushroom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/CatGame/app/src/main/res/drawable/phantom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/CatGame/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/CatGame/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/CatGame/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/CatGame/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/CatGame/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/CatGame/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/CatGame/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/CatGame/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/CatGame/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/CatGame/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/CatGame/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/CatGame/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/CatGame/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/CatGame/app/src/main/res/raw/shotgun.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/CatGame/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/CatGame/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/CatGame/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/CatGame/app/src/test/java/com/aman/catgame/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/CatGame/app_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/CatGame/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/CatGame/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/CatGame/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/CatGame/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/CatGame/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/CatGame/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/CatGame/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/MemorizingApp copy.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/MemorizingApp.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/apple.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/bmw.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/hp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/images/aboutus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/images/contactus.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/images/help.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/images/home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/images/logout.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/images/order.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/images/products.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/img/appicon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/img/icon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/img/image1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/img/image2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/img/image3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/img/image4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/insta.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/plogo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4 2.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4 2/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4 2/SlimeZerkTest.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4 2/SlimeZerkTest.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4 2/SlimeZerkTest.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4 2/SlimeZerkTest.xcodeproj/project.xcworkspace/xcuserdata/kiranmehal.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4 2/SlimeZerkTest.xcodeproj/xcuserdata/kiranmehal.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4 2/SlimeZerkTest.xcodeproj/xcuserdata/parrot.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4 2/SlimeZerkTest/Actions.sks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4 2/SlimeZerkTest/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4 2/SlimeZerkTest/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4 2/SlimeZerkTest/BackgroundMusic/ActionFighter.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4 2/SlimeZerkTest/BackgroundMusic/SpaceTrip.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4 2/SlimeZerkTest/BackgroundMusic/Victory.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4 2/SlimeZerkTest/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4 2/SlimeZerkTest/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4 2/SlimeZerkTest/BerzerkLevel1.sks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4 2/SlimeZerkTest/BerzerkLevel2.sks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4 2/SlimeZerkTest/GameScene.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4 2/SlimeZerkTest/GameViewController.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4 2/SlimeZerkTest/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4 2/SlimeZerkTest/Koopa.atlas/Orange.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4 2/SlimeZerkTest/Koopa.atlas/bButton-light.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4 2/SlimeZerkTest/Koopa.atlas/down-light.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4 2/SlimeZerkTest/Koopa.atlas/down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4 2/SlimeZerkTest/Koopa.atlas/enemy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4 2/SlimeZerkTest/Koopa.atlas/girl01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4 2/SlimeZerkTest/Koopa.atlas/left-light.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4 2/SlimeZerkTest/Koopa.atlas/left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4 2/SlimeZerkTest/Koopa.atlas/musicOff-light.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4 2/SlimeZerkTest/Koopa.atlas/musicOn-light.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4 2/SlimeZerkTest/Koopa.atlas/right-light.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4 2/SlimeZerkTest/Koopa.atlas/right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4 2/SlimeZerkTest/Koopa.atlas/up-light.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4 2/SlimeZerkTest/Koopa.atlas/up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4 2/SlimeZerkTest/gameOverScene.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4/SlimeZerkTest.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4/SlimeZerkTest.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4/SlimeZerkTest.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4/SlimeZerkTest.xcodeproj/project.xcworkspace/xcuserdata/kiranmehal.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4/SlimeZerkTest.xcodeproj/xcuserdata/kiranmehal.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4/SlimeZerkTest.xcodeproj/xcuserdata/parrot.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4/SlimeZerkTest/Actions.sks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4/SlimeZerkTest/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4/SlimeZerkTest/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4/SlimeZerkTest/BackgroundMusic/SpaceTrip.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4/SlimeZerkTest/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4/SlimeZerkTest/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4/SlimeZerkTest/BerzerkLevel1.sks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4/SlimeZerkTest/BerzerkLevel2.sks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4/SlimeZerkTest/GameScene.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4/SlimeZerkTest/GameViewController.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4/SlimeZerkTest/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4/SlimeZerkTest/Koopa.atlas/Orange.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4/SlimeZerkTest/Koopa.atlas/bButton-light.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4/SlimeZerkTest/Koopa.atlas/down-light.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4/SlimeZerkTest/Koopa.atlas/down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4/SlimeZerkTest/Koopa.atlas/enemy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4/SlimeZerkTest/Koopa.atlas/girl01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4/SlimeZerkTest/Koopa.atlas/left-light.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4/SlimeZerkTest/Koopa.atlas/left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4/SlimeZerkTest/Koopa.atlas/musicOff-light.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4/SlimeZerkTest/Koopa.atlas/musicOn-light.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4/SlimeZerkTest/Koopa.atlas/right-light.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4/SlimeZerkTest/Koopa.atlas/right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4/SlimeZerkTest/Koopa.atlas/up-light.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4/SlimeZerkTest/Koopa.atlas/up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled folder/test3and4/SlimeZerkTest/gameOverScene.swift" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="797" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="app" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="app" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="app" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="gradle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="app" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="gradle" type="462c0819:PsiDirectoryNode" />
+              <item name="wrapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="app" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.project.structure.last.selected" value="SDK Location" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0dbc692d-6785-4ac3-85bb-5b1b58cc0645" name="Default Changelist" comment="" />
+      <created>1581718000831</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581718000831</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="797" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.3297568" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Build Variants" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Resources Explorer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Build" visible="true" weight="0.32907802" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Palette&#9;" />
+    </layout>
+  </component>
+</project>
